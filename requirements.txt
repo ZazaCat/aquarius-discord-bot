@@ -1,0 +1,10 @@
+google-generativeai
+git+https://github.com/Pycord-Development/pycord
+asyncio
+pillow
+threading
+beautifulsoup4
+duckduckgo_search
+flask
+gc
+python-dotenv
