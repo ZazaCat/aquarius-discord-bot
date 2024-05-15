@@ -40,10 +40,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Aquarius AI Discord Bot is built using the following technologies:
 
-- [Google Generative AI](https://github.com/GoogleCloudPlatform/generative-ai))
-- [Discord.py](https://github.com/Rapptz/discord.py)
+- [Google Generative AI](https://github.com/GoogleCloudPlatform/generative-ai)
+- [Py-cord](https://github.com/Pycord-Development/pycord)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
-- [aiohttp](https://docs.aiohttp.org/en/stable/)
 - [duckduckgo-search](https://pypi.org/project/duckduckgo-search/)
 
 We extend our gratitude to the developers and contributors of these libraries and technologies.
