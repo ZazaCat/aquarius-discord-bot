@@ -14,7 +14,7 @@ Aquarius is an intelligent AI assistant Discord bot that can engage in multi-tur
 
 To use the Aquarius AI Discord bot, follow these steps:
 
-1. **Invite the Bot**: Invite the bot to your Discord server using [this link](https://example.com/invite). You'll need the appropriate permissions to add bots to your server.
+1. **Invite the Bot**: Invite the bot to your Discord server using [this link](https://discord.com/oauth2/authorize?client_id=1231509507528593408). You'll need the appropriate permissions to add bots to your server.
 2. **Mention or Reply**: To initiate a conversation with Aquarius, simply mention the bot using `@Aquarius` or reply to one of its messages.
 3. **Interact**: Ask questions, provide prompts, or share images with Aquarius, and it will respond with informative and engaging answers, leveraging its language understanding capabilities and web search integration.
 4. **Configure Settings**: Use the `/settings` command to enable or disable web search functionality based on your preferences.
@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Aquarius AI Discord Bot is built using the following technologies:
 
-- [Google Generative AI](https://cloud.google.com/generative-ai)
+- [Google Generative AI](https://github.com/GoogleCloudPlatform/generative-ai))
 - [Discord.py](https://github.com/Rapptz/discord.py)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [aiohttp](https://docs.aiohttp.org/en/stable/)
